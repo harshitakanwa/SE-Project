@@ -5,6 +5,7 @@
 2. Vamshikrishna - 191CS261
 3. Mahadev Hatti  - 191CS133
 4. Harshita - 191CS120
+5. Patil Keerthana - 191CS231
 
 ## Project Description
 * This project is about library automation.  
