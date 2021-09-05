@@ -5,9 +5,9 @@
 |---:|:---|:---:|:---|
 |1.| Jithendra Puppala | 191CS237 | <jithendra.191cs237@nitk.edu.in> |
 |2.| Vamshikrishna M | 191CS261 | <vamshikrishnam.191cs261@nitk.edu.in>|
-|3.| Mahadev Hatti  | 191CS133 ||
-|4.| Keerthana Patil | 191CS231 ||
-|5.| Harshita | 191CS120 ||
+|3.| Mahadev Hatti  | 191CS133 |<mahadev.191cs133@nitk.edu.in>|
+|4.| Keerthana Patil | 191CS231 |<patilkeerthana.191cs231@nitk.edu.in>|
+|5.| Harshita | 191CS120 |<harshita.191cs120@nitk.edu.in>|
 
 
 ## Project Description
