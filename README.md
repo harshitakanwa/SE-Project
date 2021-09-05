@@ -4,7 +4,7 @@
 ||Name|Roll No|Email|
 |---:|:---|:---:|:---|
 |1.| Jithendra Puppala | 191CS237 | <jithendra.191cs237@nitk.edu.in> |
-|2.| Vamshikrishna M | 191CS261 | <vamshikrishnam.edu.in>|
+|2.| Vamshikrishna M | 191CS261 | <vamshikrishnam.191cs261@edu.in>|
 |3.| Mahadev Hatti  | 191CS133 ||
 |4.| Keerthana Patil | 191CS231 ||
 |5.| Harshita | 191CS120 ||
