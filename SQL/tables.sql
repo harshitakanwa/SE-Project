@@ -82,3 +82,9 @@ CREATE TABLE Subscription(Subscription_ID VARCHAR(100) PRIMARY KEY,
                Book_Issued DATE,
                Book_Returned DATE,
                Fine_with_Book INT(10));
+               
+ # Feedback 
+ CREATE TABLE Feedback(
+     Name CHAR(100),
+     Bio CHAR(100),
+     Feedback VARCHAR(300));
