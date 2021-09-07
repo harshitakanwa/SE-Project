@@ -34,7 +34,7 @@ CREATE TABLE User_Library_Data(Username VARCHAR(100),
            Admin CHAR(100),
            Fine CHAR(100),
           primary key(Library_ID),
-       FOREIGN KEY(Username)REFERENCES Login_Details(Username) );
+       FOREIGN KEY(Username)REFERENCES LOGIN(username) );
 
 
 
@@ -87,4 +87,5 @@ CREATE TABLE Subscription(Subscription_ID VARCHAR(100) PRIMARY KEY,
  CREATE TABLE Feedback(
      Name CHAR(100),
      Bio CHAR(100),
-     Feedback VARCHAR(300));
+     Feedback VARCHAR(300)
+     FOREIGN KEY(Name)REFERENCES LOGIN(username) ));
